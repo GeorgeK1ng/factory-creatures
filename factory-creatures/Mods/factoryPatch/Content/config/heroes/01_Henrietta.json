@@ -1,5 +1,5 @@
 {
-	"01_Henrietta" :
+	"hota.factory:01_Henrietta" :
 	{
     "class": "factoryAClass",
     "female" : true,
