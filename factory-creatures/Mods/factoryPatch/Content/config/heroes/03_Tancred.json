@@ -1,5 +1,5 @@
 {
-	"03_Tancred" :
+	"hota.factory:03_Tancred" :
 	{
     "class": "factoryAClass",
     "female" : false,
