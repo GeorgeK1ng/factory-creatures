@@ -1,5 +1,5 @@
 {
-	"05_Floribert" :
+	"hota.factory:05_Floribert" :
 	{
     "class": "factoryAClass",
     "female" : false,
