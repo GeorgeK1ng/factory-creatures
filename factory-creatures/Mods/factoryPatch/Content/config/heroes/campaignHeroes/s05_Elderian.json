@@ -1,5 +1,5 @@
 {
-	"s05_Elderian" :
+	"hota.factory:s05_Elderian" :
 	{
     "class": "factoryMClass",
     "female" : false,
