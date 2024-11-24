@@ -1,5 +1,5 @@
 {
-	"15_Wrathmont" :
+	"hota.factory:15_Wrathmont" :
 	{
     "class": "factoryMClass",
     "female" : false,
