@@ -2,7 +2,7 @@
 	"machineryForge" : 
 	{
 		"name" : "Machinery Forge",
-    		"handler" : "bank", 
+    		"handler" : "configurable", 
 		"types" : 
 		{
 			"inventorForge" : 
