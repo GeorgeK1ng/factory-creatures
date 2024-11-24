@@ -1,5 +1,5 @@
 {
-	"11_Celestine" :
+	"hota.factory:11_Celestine" :
 	{
     "class": "factoryMClass",
     "female" : true,
