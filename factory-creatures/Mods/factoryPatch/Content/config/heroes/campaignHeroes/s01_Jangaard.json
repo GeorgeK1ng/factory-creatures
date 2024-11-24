@@ -1,5 +1,5 @@
 {
-	"s01_Jangaard" :
+	"hota.factory:s01_Jangaard" :
 	{
     "class": "factoryAClass",
     "female" : false,
