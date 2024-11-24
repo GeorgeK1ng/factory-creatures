@@ -1,5 +1,5 @@
 {
-	"s02_Stina" :
+	"hota.factory:s02_Stina" :
 	{
     "class": "factoryAClass",
     "female" : true,
