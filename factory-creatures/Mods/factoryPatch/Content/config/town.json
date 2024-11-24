@@ -336,7 +336,7 @@
 					{
 						"type" : "OPENING_BATTLE_SPELL",
 						"val" : 3,
-						"subtype" : "spell.teslaLightning",
+						"subtype" : "hota.factory:teslaLightning",
 						"propagator" : "PLAYER_PROPAGATOR",
 					}],
 					"id" : 26,
