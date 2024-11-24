@@ -1,5 +1,5 @@
 {
-	"08_Morton" :
+	"hota.factory:08_Morton" :
 	{
     "class": "factoryAClass",
     "female" : true,
