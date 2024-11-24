@@ -51,7 +51,6 @@
     "growth": 15,
     "hitPoints": 4,
     "level": 1,
-    "upgrades": [ "hobbit" ],
     "shots" : 24,
     "sound": {
       "attack": "HALFATTK.wav",
