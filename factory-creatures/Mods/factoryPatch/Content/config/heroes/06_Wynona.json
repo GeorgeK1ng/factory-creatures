@@ -1,5 +1,5 @@
 {
-	"06_Wynona" :
+	"hota.factory:06_Wynona" :
 	{
     "class": "factoryAClass",
     "female" : true,
