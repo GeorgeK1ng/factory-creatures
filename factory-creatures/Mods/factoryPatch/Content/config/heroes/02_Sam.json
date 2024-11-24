@@ -1,5 +1,5 @@
 {
-	"02_Sam" :
+	"hota.factory:02_Sam" :
 	{
     "class": "factoryAClass",
     "female" : true,
