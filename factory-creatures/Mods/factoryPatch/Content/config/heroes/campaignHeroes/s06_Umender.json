@@ -1,5 +1,5 @@
 {
-	"s06_Umender" :
+	"hota.factory:s06_Umender" :
 	{
     "class": "factoryMClass",
     "female" : false,
