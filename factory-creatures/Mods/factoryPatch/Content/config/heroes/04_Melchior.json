@@ -1,5 +1,5 @@
 {
-	"04_Melchior" :
+	"hota.factory:04_Melchior" :
 	{
     "class": "factoryAClass",
     "female" : false,
