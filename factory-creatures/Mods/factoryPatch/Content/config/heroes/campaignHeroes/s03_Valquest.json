@@ -1,5 +1,5 @@
 {
-	"s03_Valquest" :
+	"hota.factory:s03_Valquest" :
 	{
     "class": "factoryAClass",
     "female" : false,
