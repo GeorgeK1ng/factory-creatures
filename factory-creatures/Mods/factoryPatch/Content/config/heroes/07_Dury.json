@@ -1,5 +1,5 @@
 {
-	"07_Dury" :
+	"hota.factory:07_Dury" :
 	{
     "class": "factoryAClass",
     "female" : true,
