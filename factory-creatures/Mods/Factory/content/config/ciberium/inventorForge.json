@@ -23,6 +23,8 @@
 					"ambient": ["LOOPARTIF.wav"]
 				},
 				"visitMode" : "once",
+				"selectMode": "selectFirst",
+				"guardsLayout" : "creatureBankNarrow",
 				"rmg" : {
 					"value"		: 4500,
 					"rarity"	: 80
