@@ -25,7 +25,7 @@
       "map": "factory/map/creatures/AVWhalf.def",
 	  "mapMask" : [ "VVV", "VAV"],
       "iconSmall": "factory/iconsSmall/creatures/CPrS001F.bmp",
-      "iconLarge": "factory/iconsBig/creatures/CPrL001F.bmp"
+      "iconLarge": "factory/iconsBig/creatures/CPrL001F.bmp",
       "timeBetweenFidgets": 1,
       "animationTime": {
         "walk": 1,
