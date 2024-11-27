@@ -6,9 +6,10 @@
 	"licenseURL" : "https://creativecommons.org/licenses/by-nc-sa/4.0/deed",
 	"modType" : "Town",
 	"name" : "Factory HotA Creatures",
-	"version" : "2.0.9",	
+	"version" : "2.0.10",	
 	"changelog" : 
 	{
+		"2.0.10": [ "Various fixes by GeorgeKing." ],
 		"2.0.9": [ "HotA Factory compatibility fixes again." ],
 		"2.0.8": [ "HotA Factory compatibility fixes, added compatibility with Tarnum from Factory." ],
 		"2.0.7": [ "HotA Factory compatibility." ],
