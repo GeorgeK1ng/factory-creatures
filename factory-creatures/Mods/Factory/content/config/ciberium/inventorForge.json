@@ -32,7 +32,7 @@
 				"rewards":
 				[
 					{
-						"appearChance": { "min": 0, "max": 25 },
+						"appearChance": { "min": 0, "max": 30 },
 						"guards": [
 							{ "amount": 5, "type" : "faAutomaton" },
 							{ "amount": 5, "type" : "faAutomaton" },
@@ -47,7 +47,7 @@
 						"creatures": [ { "amount": 1, "type": "faDreadnought" } ]
 					},
 					{
-						"appearChance": { "min": 26, "max": 50 },
+						"appearChance": { "min": 31, "max": 60 },
 						"guards": [
 							{ "amount": 10, "type" : "faAutomaton" },
 							{ "amount": 10, "type" : "faAutomaton" },
@@ -62,7 +62,7 @@
 						"creatures": [ { "amount": 2, "type": "faDreadnought" } ]
 					},
 					{
-						"appearChance": { "min": 51, "max": 75 },
+						"appearChance": { "min": 61, "max": 90 },
 						"guards": [
 							{ "amount": 15, "type" : "faAutomaton" },
 							{ "amount": 15, "type" : "faBattleAutomaton" },
@@ -77,7 +77,7 @@
 						"creatures": [ { "amount": 3, "type": "faDreadnought" } ]
 					},
 					{
-						"appearChance": { "min": 76, "max": 100 },
+						"appearChance": { "min": 91, "max": 100 },
 						"guards": [
 							{ "amount": 20, "type" : "faAutomaton" },
 							{ "amount": 20, "type" : "faBattleAutomaton" },
