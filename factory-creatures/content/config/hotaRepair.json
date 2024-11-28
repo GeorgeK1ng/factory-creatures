@@ -9,7 +9,7 @@
 		"school":
 		{
 			"air": false,
-			"earth": true,
+			"earth": false,
 			"fire": false,
 			"water": false
 		},
@@ -24,7 +24,7 @@
 
  
 		"animation":{
-			"affect":["spells/CSPhea03.def"]
+			"affect":["spells/RepairSpell.def"]
 		},
  
 		"flags" : {	"positive": true, "rising" : true},
