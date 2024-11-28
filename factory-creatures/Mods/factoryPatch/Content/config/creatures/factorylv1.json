@@ -3,9 +3,6 @@
     "faction": "factoryUn",
     "upgrades": [ "faHalful" ],
     "graphics": {
-      "animation": "factory/battle/creatures/CHalf.def",
-      "map": "factory/map/creatures/AVWhalf.def",
-	  "mapMask" : [ "VVV", "VAV"],
       "iconSmall": "hotaCPRSmall/CPrSm140.bmp",
       "iconLarge": "hotaTwCrport/twcrp140.bmp"
     },
